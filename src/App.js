@@ -2,7 +2,7 @@ import React from 'react'
 
 var App = () => (
   <div>
-    Peutingar Alpha3
+    Peutingar Alpha 3
   </div>
 )
 
